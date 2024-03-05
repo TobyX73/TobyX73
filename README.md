@@ -2,13 +2,16 @@
 <h3 align="center">A information systems engineering student, junior web developer and cat lover.</h3>
 <h3 align="center">Posadas, Misiones, Argentina 📍</h3>
 
+<img align="right" alt="Vibing" height="250" src="https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif"> 
+
 - 👨‍💻​ I’m currently working on [ByteMate](https://www.linkedin.com/company/byte-mate)
 
-- ​📚 I’m currently learning **TypeScript, NestJS, TypeORM, PostgreSQL,NextJS, TailwaindsCSS,Astro**
+- ​📚 I’m currently learning **TypeScript, NestJS, TypeORM, PostgreSQL, NextJS, TailwaindsCSS, Astro**
 
 - 📫 How to reach me **tobyx73.dev@gmail.com**
 
 - ⚡ Fun fact **Im a roguelikes fan**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
