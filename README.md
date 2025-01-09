@@ -6,8 +6,6 @@
 
 <img align="right" alt="Vibing" height="250" src="https://media1.tenor.com/m/mJ_Og97j5WwAAAAC/chipi-chapa.gif"> 
 
-- 👨‍💻​ I’m currently working on [ByteMate](https://www.linkedin.com/company/byte-mate)
-
 - ​📚 I’m currently learning **TypeScript, NestJS, TypeORM, PostgreSQL, NextJS, TailwaindsCSS, Astro**
 
 - 📫 How to reach me **tobyx73.dev@gmail.com**
